@@ -1,0 +1,4 @@
+.env
+/node_modules
+server/config/dev.js
+.gitignore
