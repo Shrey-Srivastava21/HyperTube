@@ -38,7 +38,7 @@
 
 
 ## Movie Recommender system using Collaborative Filtering Algorithm✨ with Cosine Similarity🎭
-![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video)
+<a href="https://youtu.be/UWnl8ZfCRbM"><img src="https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video"></img></a>
 
 
 ## Features and Interfaces
@@ -153,10 +153,9 @@ This app contains several functions:
 
 ## Useful Links
 
-<!-- - [Deployed Website](https://unite-apurva.herokuapp.com/landing)
-- [Demo Video](https://youtu.be/OKKK1GOnlIU)
-- [Sprint Document](https://docs.google.com/presentation/d/11k8pLJPEV-XJwxIX4ysW9fKmHqFEZHcUWizFcFyVsns/edit?usp=sharing)
-- [Design Document](https://docs.google.com/document/d/1IJcEbbhsbQna-tgcnfV_9_RhXQi4SURlrl3-0HypArE/edit?usp=sharing) -->
+- [Deployed Website](https://moviemain.herokuapp.com/)
+- [Demo Video](https://youtu.be/UWnl8ZfCRbM)
+- [Project Documents](https://1drv.ms/u/s!AuOhcmvBFxGOh6FeTTVRxOdUv736MQ?e=WccUkA)
 
 ## Need help?
 
