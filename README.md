@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/badge/Last%20Commit-May-blue)
  -->
 
-## 🎬Landing Page - Hyptertube📽 ##
+## 🎬Landing Page - Hypertube📽 ##
 
 <!-- [Hypertube](https://moviemain.herokuapp.com/register)  -->
 
