@@ -21,11 +21,11 @@
 
 # Hypertube - Movie Recommendation system using🔱ML and 🎬 MERN(MongoDB, Express, NodeJS, ReactJS).
 
-<!-- ![Movie Recommeded System](https://user-images.githubusercontent.com/84815622/170829815-d754d60e-30cf-4e97-8102-e2d2ef9d2fa6.png) -->
+![Movie Recommeded System](https://user-images.githubusercontent.com/84815622/170829815-d754d60e-30cf-4e97-8102-e2d2ef9d2fa6.png) 
 
-<!-- ## Submission for Microsoft Engage 2022🌟 -->
+## Submission for Microsoft Engage 2022🌟
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/84815622/170830184-b031c77b-ae42-4aa0-b494-8b965a5e34f1.png" />
 </p> -->
 
