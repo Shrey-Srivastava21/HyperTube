@@ -155,7 +155,7 @@ This app contains several functions:
 
 - [Deployed Website](https://moviemain.herokuapp.com/)
 - [Demo Video](https://youtu.be/UWnl8ZfCRbM)
-- [Project Documents](https://1drv.ms/u/s!AuOhcmvBFxGOh6FeTTVRxOdUv736MQ?e=WccUkA)
+- [Project Document](https://1drv.ms/u/s!AuOhcmvBFxGOh6FeTTVRxOdUv736MQ?e=WccUkA)
 
 ## Need help?
 
