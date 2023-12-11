@@ -27,7 +27,7 @@
  </a>
 </p>
 
-# HyperTube - 🎬Movie Recommendation system using 🖥ML and 🏖MERN(MongoDB, Express, NodeJS, ReactJS).
+# HyperTube - 🎬Movie Recommendation system using 🖥ML and 🏖MERN(MongoDB, Express JS, Node JS, React JS).
 
 ![Movie Recommeded System](https://user-images.githubusercontent.com/84815622/170829815-d754d60e-30cf-4e97-8102-e2d2ef9d2fa6.png) 
 
