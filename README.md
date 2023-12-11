@@ -1,13 +1,21 @@
 
 <!-- ![Hypertube](https://user-images.githubusercontent.com/84815622/170829999-8a1ad193-099c-4912-badd-eb9482753c4d.png) -->
 
-
 <!-- ![GitHub code size in bytes](https://img.shields.io/badge/Code%20Size-3gb-red)
 
 ![GitHub last commit](https://img.shields.io/badge/Last%20Commit-May-blue)
  -->
 
-## 🎬Landing Page - Hypertube📽 ##
+<!--## 🎬Landing Page - Hypertube📽 ##-->
+<p align="center">
+  <a href="">
+  🎬Microsoft Certified Project | Code Base - HyperTube📽 
+  </a>
+</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!-- [Hypertube](https://moviemain.herokuapp.com/register)  -->
 
@@ -19,9 +27,13 @@
  </a>
 </p>
 
-# Hypertube - Movie Recommendation system using🔱ML and 🎬 MERN(MongoDB, Express, NodeJS, ReactJS).
+# HyperTube - Movie Recommendation system using🔱ML and 🎬 MERN(MongoDB, Express, NodeJS, ReactJS).
 
 ![Movie Recommeded System](https://user-images.githubusercontent.com/84815622/170829815-d754d60e-30cf-4e97-8102-e2d2ef9d2fa6.png) 
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## Submission for Microsoft Engage 2022🌟
 
@@ -29,13 +41,16 @@
   <img src="https://user-images.githubusercontent.com/84815622/170830184-b031c77b-ae42-4aa0-b494-8b965a5e34f1.png" />
 </p>
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-
-
-
-## Main Page of Website📌
+## Landing Page of Website📌
 ![Screenshot (247)](https://user-images.githubusercontent.com/84815622/170850248-a661d0f3-107c-45e1-8bec-c22dc1b3d172.png)
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!-- ## Movie Recommender system using Collaborative Filtering Algorithm✨ with Cosine Similarity🎭
 <a href="https://youtu.be/UWnl8ZfCRbM"><img src="https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video"></img></a>
@@ -56,7 +71,6 @@
    - `Email Verification` for security purpose
    ![Screenshot (254)](https://user-images.githubusercontent.com/84815622/170855864-517aa74a-51e5-41fb-acae-d77eeffa06c2.png)
 
-   
 ## 2. Recommendation with advanced filter & train dataset models with Microsoft Bing Lens(Virtual Search) functionality
    
    - Recommend Movies based on user interest genres, filter movies by year
@@ -77,7 +91,6 @@
    - 19 different genres based on the user mood and you can reset filters for previous results
    ![Screenshot (236)](https://user-images.githubusercontent.com/84815622/170848606-23b409d0-c6e9-482b-b864-9ec971df1802.png)
 
-
 ## 5. Recommended and Similar Movies
 
    - Based on user interest and previous history it shows recommended and similar movies
@@ -92,15 +105,18 @@
    - You can watch movie trailer in mini player mode as well
    ![Screenshot (241)](https://user-images.githubusercontent.com/84815622/170849430-4b8eda71-6852-4d06-a15d-b9c095f91712.png)
 
-
 ## 7. Real time comment section, likes and dislikes section about movie
     
    - Share opinions about the movie you watched, likes and dislikes based upon you experience(User Specific)
    ![Screenshot (243)](https://user-images.githubusercontent.com/84815622/170849820-936a900f-fe47-4d10-a764-f5f0fc13295f.png)
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## Tech Stack(Tools and Languages)🏆
 
-                      
+                
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
@@ -114,8 +130,11 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                             
 
-## Instructions
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
+## Instructions
 
 1. `git clone https://github.com/Shrey-Srivastava21/movie.git` 
 
@@ -131,6 +150,9 @@
 7. `npm run start`
 8. The app is now running at http://localhost:3000/landing
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## Features
 
@@ -143,6 +165,10 @@ This app contains several features:
 7. **English(US) and French translations available**
 8. Desktop and Mobile-friendly
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## Functions
 
 This app contains several functions:
@@ -151,18 +177,25 @@ This app contains several functions:
 3. Fast and tested UI with single page application developed using MERN
 4. Predicts and filter the movie as per the user's behaviour and track all user activity for future recommendations using collaborative algorithm with cosine similarity
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## Useful Links
 
 - [Deployed Website](https://moviemain.herokuapp.com/)
 - [Demo Video](https://youtu.be/UWnl8ZfCRbM)
 - [Project Document](https://1drv.ms/u/s!AuOhcmvBFxGOh6FeTTVRxOdUv736MQ?e=WccUkA)
 
-## Need help?
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## Need help?
 
 Feel free to contact me on \
 <a href = "https://www.linkedin.com/in/shrey-srivastava-591bb21bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href = "https://github.com/Shrey-Srivastava21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 
 ---------
 
